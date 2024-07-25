@@ -1,9 +1,18 @@
-# src
+src
+===
 This directory contains the project source code.
 
-## Files
-- `main.c`: Contains the entry point of the program.
+Files
+=====
+`main.c`
+--------
+Contains the entry point **(the `main()` function)** of the program.
 
-## Directories
-- None
+`README.md`
+-----------
+This file.
 
+Directories
+===========
+None
+----
